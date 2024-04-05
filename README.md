@@ -1,1 +1,1 @@
-# QA-Automation-Project-API-Swagger--Parabank
+# QA-Automation-Project-API-Swagger-Parabank
